@@ -18,9 +18,14 @@ Annotations:
 	-	@Transient
 	-	@Temporal
 	-	@Table
-	-   @ElementCollection
+	-   	@ElementCollection
 	-	@GenericGenerator
 	-	@CollectionId
+	-	@NamedQuery
+	-	@Query
+	-	@NamedQueries
+	-	create Query
+	-	Criteria API
 	- 	cascadeTypes
-	-   mappedBy
+	-   	mappedBy
 	- 	CRUD operations : Create , Update , Save , Delete
